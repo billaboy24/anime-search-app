@@ -26,11 +26,13 @@ A modern React application to search and explore anime, powered by the [Jikan AP
 ## 📦 Installation
 
 1. **Clone the repo**
+
    ```bash
-   git clone https://github.com/your-username/anime-search-app.git
+   git clone https://github.com/billaboy24/anime-search-app.git
    cd anime-search-app
 
    ```
+
 2. **Install dependencies**
 
    ```bash
