@@ -1,0 +1,44 @@
+# 🎌 Anime Search App
+
+A modern React application to search and explore anime, powered by the [Jikan API](https://docs.api.jikan.moe/). Features instant search, server-side pagination, detailed anime view, and a clean UI built with Material UI.
+
+## ✨ Features
+
+- 🔍 Instant search with debounce (250ms)
+- 📄 Server-side pagination
+- 🖼️ Anime detail pages with full info
+- 💅 Responsive and aesthetic UI (MUI)
+- ⚡ Data fetching with TanStack Query
+- 🔁 Custom hooks for fetching logic
+- 🧪 Graceful handling of loading, empty state, and errors
+- 💥 Handles race conditions when typing quickly
+
+## 🚀 Technologies Used
+
+- React
+- React Router DOM
+- @mui/material (Material UI)
+- @mui/icons-material
+- @tanstack/react-query
+- Axios
+- Jikan API v4
+
+## 📦 Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/anime-search-app.git
+   cd anime-search-app
+
+   ```
+2. **Install dependencies**
+
+   ```bash
+   npm install
+
+   ```
+
+3. **Run the app**
+   ```bash
+   git npm start
+   ```
